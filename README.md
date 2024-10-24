@@ -1,4 +1,4 @@
-#👋 Simon Cordero
+# 👋 Simon Cordero
 
 # 💫 About Me:
 🌱 I’m a recent Computer Programming graduate currently learning about Machine Learning and Data Science<br>👯 I’m looking to collaborate on building various software solutions.<br>Feel free to connect! <br><br>
